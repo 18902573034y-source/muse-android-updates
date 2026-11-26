@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "1.9.26",
-  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.26-code72/Muse-native-1.9.26-code72.apk",
-  "sha256": "84b2203582b7d91f97432e6d2a917fd79d774d54e744b0dfb74742b05154c199",
-  "releaseNotes": "修复检查更新时 GitHub API 限流问题，改用固定公开清单。",
+  "versionCode": 73,
+  "versionName": "1.9.27",
+  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.27-code73/Muse-native-1.9.27-code73-fastRelease.apk",
+  "sha256": "add38a1acbaeb0ce39e4e798ba97ef0892633c8a7c6158f1ff29b863ac8ac421",
+  "releaseNotes": "合并云盘新版源码并保留固定更新源；版本更新至 1.9.27（code 73）。",
   "forceUpdate": false
 }
