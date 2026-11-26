@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "1.9.27",
-  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.27-code73/Muse-native-1.9.27-code73-fastRelease.apk",
-  "sha256": "add38a1acbaeb0ce39e4e798ba97ef0892633c8a7c6158f1ff29b863ac8ac421",
-  "releaseNotes": "合并云盘新版源码并保留固定更新源；版本更新至 1.9.27（code 73）。",
+  "versionCode": 74,
+  "versionName": "1.9.28",
+  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.28-code74/Muse-native-1.9.28-code74-fastRelease.apk",
+  "sha256": "dfb536dd7994f154139872f62e8ce32bdb057922b641da559a9d84766da157f3",
+  "releaseNotes": "Muse Native 1.9.28（code 74）；final-source 构建，Debug 单元测试 51 项通过。",
   "forceUpdate": false
 }
