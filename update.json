@@ -1,8 +1,8 @@
 {
-  "versionCode": 80,
-  "versionName": "1.9.34",
-  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.34-code80/Muse-native-1.9.34-code80-fastRelease.apk",
-  "sha256": "e2cbc99a270217a09dae5c9f71f2506d4174c8e8345cfd628b973ad280f9951c",
-  "releaseNotes": "Muse Native 1.9.34（code 80）；Debug 全量单元测试通过。",
+  "versionCode": 81,
+  "versionName": "1.9.35",
+  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.35-code81/Muse-native-1.9.35-code81-fastRelease.apk",
+  "sha256": "c116b995728972296765513917801ca312ccc377ec55d7b5fe1999d6fd777c34",
+  "releaseNotes": "Muse Native 1.9.35（code 81）；Debug 全量单元测试通过。",
   "forceUpdate": false
 }
