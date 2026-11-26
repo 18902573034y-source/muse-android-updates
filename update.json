@@ -1,0 +1,8 @@
+{
+  "versionCode": 72,
+  "versionName": "1.9.26",
+  "apkUrl": "https://github.com/18902573034y-source/muse-android-updates/releases/download/v1.9.26-code72/Muse-native-1.9.26-code72.apk",
+  "sha256": "84b2203582b7d91f97432e6d2a917fd79d774d54e744b0dfb74742b05154c199",
+  "releaseNotes": "修复检查更新时 GitHub API 限流问题，改用固定公开清单。",
+  "forceUpdate": false
+}
